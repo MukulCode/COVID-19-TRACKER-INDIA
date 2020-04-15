@@ -7,4 +7,7 @@
     <string name="default_notification_channel_id">default</string>
     <string name="text_confirmed_cases">Confirmed Cases : %s</string>
     <string name="text_last_updated">Last Updated : %s</string>
-    <string name="default_notification_channel_name">Covid-19 India</string></resources>
+    <string name="default_notification_channel_name">Covid-19 India</string>
+    <string name="developed_with_by_mukul">Developed with ❤️ by MukulCode</string>
+    <string name="covid_19_tracker_n_india">COVID-19 TRACKER \n INDIA</string>
+</resources>
