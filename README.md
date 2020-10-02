@@ -1,6 +1,6 @@
 # COVID-19-INDIA-TRACKER
 
-An application to track the number of corona virus cases in India(StateWise)
+An application to track the number of corona virus cases in India(StateWise).
 
 ## Screenshots
 
